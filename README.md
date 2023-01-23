@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fidelmak
 - 👀 I’m interested in fullstack web development
-- 🌱 I’m currently learning Nodejs and express framework
+- 🌱 I’m currently learning Dart and Flutter framework
 - 💞️ I’m looking to collaborate on fullstack projects 
 - 📫 How to reach me @delisigib on Twitter
 - 🔥 my social link https://bit.ly/3ME5yNx
