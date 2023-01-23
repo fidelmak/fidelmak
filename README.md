@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fidelmak
-- 👀 I’m interested in fullstack web development
+- 👀 I’m interested in software  development
 - 🌱 I’m currently learning Dart and Flutter framework
 - 💞️ I’m looking to collaborate on fullstack projects 
 - 📫 How to reach me @delisigib on Twitter
