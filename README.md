@@ -5,6 +5,7 @@
 - 📫 How to reach me @delisigib on Twitter
 - 🔥 my social link https://bit.ly/3ME5yNx
 - 📫 my Project page [my project links ](https://my-project-link.vercel.app/)
+- 💞️ fiver link https://fiverr.com/share/bqbQxX
 <!---
 fidelmak/fidelmak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
