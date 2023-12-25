@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Paul Fidelis @fidelmak
+- 👋 Hi, I’m Paul Fidelis [fidelmak](https://github.com/fidelmak)
 - 👀 I’m interested in software  development
 - 🌱 I’m experienced in  Flutter framework and Python
 - 💞️ I’m looking to collaborate on full-stack projects 
