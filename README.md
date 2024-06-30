@@ -16,11 +16,11 @@
 ## my Resume 
 
 # AKINTUNDE OLUBORODE
-*Lagos, Nigeria | [08103916558](tel:+2348103916558) | [oluborodeatunde@gmail.com](mailto:oluborodeatunde@gmail.com)*
+*Lagos, Nigeria  | [oluborodeatunde@gmail.com](mailto:oluborodeatunde@gmail.com)*
 
 ## SUMMARY
 
-Results-oriented software developer with expertise in Python and Flutter. Experienced in cross-platform app development, creating impactful applications for Android. Notable projects include 'DartInterview,' a Dart programming practice app, and 'MusicX,' a sleek music player. Currently developing a utility app for efficient schedule management.
+Results-oriented software developer with expertise Flutter. Experienced in cross-platform app development, creating impactful applications for Android. Notable projects include 'DartInterview,' a Dart programming practice app, and 'MusicX,' a sleek music player. Currently developing a utility app for efficient schedule management.
 
 ## WORK EXPERIENCE/PROJECTS
 
@@ -60,10 +60,9 @@ Dive into the world of time management with DigitalClock, a full-screen digital 
 - **Flutter/Dart:** Professional working knowledge
 - **HTML/CSS:** Professional working knowledge
 - **ReactJS/Javascript:** Professional working knowledge
-- **Adobe Creative Suite:** Advanced working knowledge
-- **Python/Django:** Advanced working knowledge
 
-[LinkedIn](linkedin.com/in/akintundeoluborode) | [Twitter](https://twitter.com/DelisIgib) | [Notion](https://bigfidelis.notion.site/bigfidelis/Function-In-Dart-4169e29cfdf443cf919854d0d2c2cd44/) | [Portfolio](https://poyting.vercel.app/) | [Learn Python Basics](https://akinholub.gumroad.com/l/Basic-python) | [Holopin](https://holopin.io/@paulfidelis)
+
+ [Twitter](https://twitter.com/DelisIgib) | [Notion](https://bigfidelis.notion.site/bigfidelis/Function-In-Dart-4169e29cfdf443cf919854d0d2c2cd44/)  [Learn Python Basics](https://akinholub.gumroad.com/l/Basic-python) | [Holopin](https://holopin.io/@paulfidelis)
 
 
 <!---
