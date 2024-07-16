@@ -1,19 +1,7 @@
-- 👋 Hi, I’m Akintunde Oluborode AKA Fidelis [fidelmak](https://github.com/fidelmak)
-- 👀 I’m interested in software  development
-- 🌱 I’m experienced in  Flutter framework and Python
-- 💞️ I’m looking to collaborate on full-stack projects 
-- 📫 Follow me "PAULFIDELIS" on [Twitter](https://twitter.com/DelisIgib)
-
-
-- 💞️ check my post on [notion](https://bigfidelis.notion.site/bigfidelis/Function-In-Dart-4169e29cfdf443cf919854d0d2c2cd44/)
-- 🚀 check my Poynting  [Portfolio](https://poyting.vercel.app/)
-
-- 📫 Check my tutorial on [Learn Python Basics](https://akinholub.gumroad.com/l/Basic-python)
 
 
 
-
-## my Resume 
+ 
 
 # AKINTUNDE OLUBORODE
 *Lagos, Nigeria  | [oluborodeatunde@gmail.com](mailto:oluborodeatunde@gmail.com)*
@@ -29,26 +17,32 @@ Results-oriented software developer with expertise Flutter. Experienced in cross
 
 Led UI development, API integration, and state management using the Provider package in Flutter at EXAMINA Official. Crafted intuitive interfaces, integrated external APIs, and ensured optimal app performance through efficient state management.
 
+
+### kick_off_kits Mobile App
+*Flutter/Dart Project*
+Shop your favourite football Jersey on a kickoff kits mobile app. Features include display of all jersey and wears with different categories , and real-time feedback. Developed with Flutter, showcasing expertise in Flutter development, API integration, state management using Provider, UI/UX design, and Dart programming.
+[Github Link](https://github.com/fidelmak/kick_off_kits)
+
 ### DartInterview App
 *Flutter/Dart Project*
 
 Practice Dart programming with the DartInterview app. Features include a vast question bank, quiz customization, and real-time feedback. Developed with Flutter, showcasing expertise in Flutter development, API integration, state management using Provider, UI/UX design, and Dart programming.
 
-[Github Link]
+[Github Link](https://github.com/fidelmak/dartinterview)
 
 ### MusicX App
 *Flutter/Dart Project*
 
 Elevate your music experience with MusicX, a sleek player offering an extensive song library. Enjoy seamless navigation, curated playlists, and a visually pleasing interface. Developed using Flutter, showcasing expertise in Flutter development, UI/UX design, and API integration for a seamless music playback experience.
 
-[Github Link]
+[Github Link](https://github.com/fidelmak/musicx)
 
 ### DigitalClock
 *Flutter/Dart and SQL Project*
 
 Dive into the world of time management with DigitalClock, a full-screen digital clock app designed for Android. Seamlessly blending Flutter and Dart technologies, it offers precision in seconds reading, intuitive task management, and effortless navigation.
 
-[Github Link]
+[Github Link](https://github.com/fidelmak/DigitalClock)
 
 ## EDUCATION
 
@@ -70,3 +64,17 @@ fidelmak/fidelmak is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 [![@paulfidelis's Holopin board](https://holopin.me/paulfidelis)](https://holopin.io/@paulfidelis)
+
+
+
+- 👀 I’m interested in software  development
+- 💞️ I’m looking to collaborate on full-stack projects
+- <{{}}> check me on [Upwork](https://www.upwork.com/freelancers/~0135be12f28cdc12be?viewMode=1&s=996364627857502209) 
+- 📫 Follow me "PAULFIDELIS" on [Twitter](https://twitter.com/DelisIgib)
+
+
+- 💞️ check my post on [notion](https://bigfidelis.notion.site/bigfidelis/Function-In-Dart-4169e29cfdf443cf919854d0d2c2cd44/)
+- 🚀 check my Poynting  [Portfolio](https://poyting.vercel.app/)
+
+- 📫 Check my tutorial on [Learn Python Basics](https://akinholub.gumroad.com/l/Basic-python)
+
