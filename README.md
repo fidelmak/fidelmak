@@ -7,8 +7,28 @@
 *Lagos, Nigeria  | [oluborodeatunde@gmail.com](mailto:oluborodeatunde@gmail.com)*
 
 ## SUMMARY
+ Software Developer with experience building with Flutter and dart.
 
-Results-oriented software developer with expertise Flutter. Experienced in cross-platform app development, creating impactful applications for Android. Notable projects include 'DartInterview,' a Dart programming practice app, and 'MusicX,' a sleek music player. Currently developing a utility app for efficient schedule management.
+## Softs Skills: 
+      *Communication Skills.
+      *Collaboration.
+      *Leadership.
+      *Presentation. 
+
+Technical skills:
+-     Software development with FLUTTER 
+-     Git 
+-     Firebase
+-     Database ( MySQL and PostgreSQL)
+-     API Integration and POSTMAN
+-     Backend Development with ExpressJS & NodeJS 
+-     Data-analysis with PYTHON and Anaconda.
+
+
+Let's Collaborate
+
+I am enthusiastic about the potential of collaboration and the remarkable outcomes it can produce. If you're interested in working together, please feel free to send me a direct message.
+
 
 ## WORK EXPERIENCE/PROJECTS
 
@@ -28,14 +48,7 @@ Shop your favourite football Jersey on a kickoff kits mobile app. Features inclu
 
 Practice Dart programming with the DartInterview app. Features include a vast question bank, quiz customization, and real-time feedback. Developed with Flutter, showcasing expertise in Flutter development, API integration, state management using Provider, UI/UX design, and Dart programming.
 
-[Github Link](https://github.com/fidelmak/dartinterview)
-
-### MusicX App
-*Flutter/Dart Project*
-
-Elevate your music experience with MusicX, a sleek player offering an extensive song library. Enjoy seamless navigation, curated playlists, and a visually pleasing interface. Developed using Flutter, showcasing expertise in Flutter development, UI/UX design, and API integration for a seamless music playback experience.
-
-[Github Link](https://github.com/fidelmak/musicx)
+[Github Link](https://github.com/fidemak/dartinterview
 
 ### DigitalClock
 *Flutter/Dart and SQL Project*
@@ -63,12 +76,13 @@ Dive into the world of time management with DigitalClock, a full-screen digital 
 fidelmak/fidelmak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<br /> 
 [![@paulfidelis's Holopin board](https://holopin.me/paulfidelis)](https://holopin.io/@paulfidelis)
 
 
 
-- 👀 I’m interested in software  development
-- 💞️ I’m looking to collaborate on full-stack projects
+## others 
 - <{{}}> check me on [Upwork](https://www.upwork.com/freelancers/~0135be12f28cdc12be?viewMode=1&s=996364627857502209) 
 - 📫 Follow me "PAULFIDELIS" on [Twitter](https://twitter.com/DelisIgib)
 
