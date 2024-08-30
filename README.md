@@ -76,8 +76,6 @@ Dive into the world of time management with DigitalClock, a full-screen digital 
 fidelmak/fidelmak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-<br /> 
 [![@paulfidelis's Holopin board](https://holopin.me/paulfidelis)](https://holopin.io/@paulfidelis)
 
 
