@@ -8,7 +8,7 @@
 
 ## SUMMARY
  Software Developer with experience building with Flutter and dart.
-
+visit [My profile](https://www.upwork.com/freelancers/~0135be12f28cdc12be)
 ## Softs Skills: 
       *Communication Skills.
       *Collaboration.
@@ -43,19 +43,10 @@ Led UI development, API integration, and state management using the Provider pac
 Shop your favourite football Jersey on a kickoff kits mobile app. Features include display of all jersey and wears with different categories , and real-time feedback. Developed with Flutter, showcasing expertise in Flutter development, API integration, state management using Provider, UI/UX design, and Dart programming.
 [Github Link](https://github.com/fidelmak/kick_off_kits)
 
-### DartInterview App
-*Flutter/Dart Project*
 
-Practice Dart programming with the DartInterview app. Features include a vast question bank, quiz customization, and real-time feedback. Developed with Flutter, showcasing expertise in Flutter development, API integration, state management using Provider, UI/UX design, and Dart programming.
-
-[Github Link](https://github.com/fidemak/dartinterview
-
-### DigitalClock
-*Flutter/Dart and SQL Project*
-
-Dive into the world of time management with DigitalClock, a full-screen digital clock app designed for Android. Seamlessly blending Flutter and Dart technologies, it offers precision in seconds reading, intuitive task management, and effortless navigation.
-
-[Github Link](https://github.com/fidelmak/DigitalClock)
+### Internship 
+*HNG*
+Flutter Mobile app developer 
 
 ## EDUCATION
 
