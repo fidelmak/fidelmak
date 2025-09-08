@@ -11,7 +11,7 @@
 ## 👋🏽 About Me
 Flutter Developer based in Lagos, Nigeria, passionate about creating seamless mobile experiences. I specialize in building cross-platform applications with clean, efficient code and intuitive user interfaces.
 
-📍 Lagos, Nigeria | 📧 [oluborodeatunde@gmail.com](mailto:oluborodeatunde@gmail.com) | 🌐 [Akintunde Oluborode - Flutter Developer](https://poyting.vercel.app/)
+📍 Lagos, Nigeria | 📧 [bigfidelisx@gmail.com](mailto:bigfidelisx@gmail.com)
 
 ## 💻 Technical Skills
 
@@ -22,17 +22,14 @@ Flutter Developer based in Lagos, Nigeria, passionate about creating seamless mo
 - REST API Integration & Postman
 
 **Web Development**
-- Frontend: HTML, CSS, JavaScript, ReactJS
-- Backend: NodeJS, ExpressJS
+- Frontend: Dart
+- Backend: Serverpod and Dart
 
 **Database Management**
-- MySQL
 - PostgreSQL
 - Firebase Firestore
 
-**Data Analysis**
-- Python
-- Anaconda
+
 
 **Other Tools**
 - Git & GitHub
@@ -46,39 +43,10 @@ Flutter Developer based in Lagos, Nigeria, passionate about creating seamless mo
 - Public Speaking & Presentation
 - Time Management & Organization
 
-## 🚀 Professional Experience
 
-### Flutter Developer | Examina | Lagos, Nigeria
-*January 2023 - Present*
 
-- Led UI development for educational platform, creating intuitive user interfaces
-- Implemented API integration for seamless data flow between frontend and backend
-- Managed state efficiently using Provider package, ensuring optimal app performance
-- Collaborated with cross-functional teams to deliver high-quality features on schedule
 
-### Mobile App Developer Intern | HNG
-*2022*
-
-- Participated in fast-paced internship program focused on real-world project development
-- Collaborated with team members to build mobile applications using Flutter
-- Implemented features and fixed bugs under tight deadlines
-
-## 📱 Projects
-
-### Kick Off Kits Mobile App
-*Flutter/Dart E-commerce Project*
-
-A football jersey online shop built with Flutter. Features include categorized product display, shopping cart functionality, and real-time feedback.
-
-**Tech Stack:** Flutter, Dart, Provider (State Management), REST API  
-**GitHub:** [kick_off_kits](https://github.com/fidelmak/kick_off_kits)
-
-### BillsAlat
-*Financial Mobile Application*
-
-Financial platform for money transfer, bill payments, and airtime/data recharge.
-
-**Tech Stack:** Flutter, Firebase, REST API
+## Projects
 
 ### NovemberCubess
 *Restaurant Mobile Application*
@@ -97,7 +65,7 @@ Question bank and quiz application for physics students.
 ## 🎓 Education
 
 **Bachelor of Science in Physics**  
-*Obafemi Awolowo University, Nigeria* | 2014 - 2018
+*Obafemi Awolowo University, Nigeria*
 
 ## 🔗 Connect With Me
 
