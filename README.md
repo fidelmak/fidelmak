@@ -9,7 +9,7 @@
 </div>
 
 ## 👋🏽 About Me
-Flutter Developer based in Lagos, Nigeria, passionate about creating seamless mobile experiences. I specialize in building cross-platform applications with clean, efficient code and intuitive user interfaces.
+Mobile  Developer passionate about creating seamless mobile experiences.
 
 📍 Lagos, Nigeria | 📧 [bigfidelisx@gmail.com](mailto:bigfidelisx@gmail.com)
 
@@ -21,9 +21,6 @@ Flutter Developer based in Lagos, Nigeria, passionate about creating seamless mo
 - Firebase (Authentication, Firestore, Cloud Functions)
 - REST API Integration & Postman
 
-**Web Development**
-- Frontend: Dart
-- Backend: Serverpod and Dart
 
 **Database Management**
 - PostgreSQL
@@ -33,12 +30,9 @@ Flutter Developer based in Lagos, Nigeria, passionate about creating seamless mo
 
 **Other Tools**
 - Git & GitHub
-- UI/UX Design Principles
 - CI/CD
 
 ## 🧠 Soft Skills
-- Communication & Collaboration
-- Leadership & Team Management
 - Problem-solving & Critical Thinking
 - Public Speaking & Presentation
 - Time Management & Organization
@@ -48,7 +42,7 @@ Flutter Developer based in Lagos, Nigeria, passionate about creating seamless mo
 
 ## Projects
 
-### NovemberCubess
+### Cubess
 *Restaurant Mobile Application*
 
 Application for browsing menu and ordering meals from restaurants.
@@ -65,17 +59,8 @@ Question bank and quiz application for physics students.
 ## 🎓 Education
 
 **Bachelor of Science in Physics**  
-*Obafemi Awolowo University, Nigeria*
 
-## 🔗 Connect With Me
 
-<div align="left">
-  <a href="https://twitter.com/DelisIgib" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://www.upwork.com/freelancers/~0135be12f28cdc12be" target="_blank"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" /></a>
-  <a href="https://bigfidelis.notion.site/bigfidelis/Function-In-Dart-4169e29cfdf443cf919854d0d2c2cd44/" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" /></a>
-  <a href="https://holopin.io/@paulfidelis" target="_blank"><img src="https://img.shields.io/badge/Holopin-8933FF?style=for-the-badge&logo=holopin&logoColor=white" /></a>
-  <a href="https://akinholub.gumroad.com/l/Basic-python" target="_blank"><img src="https://img.shields.io/badge/Gumroad-FF90E8?style=for-the-badge&logo=gumroad&logoColor=white" /></a>
-</div>
 
 ## 📈 GitHub Stats
 
@@ -89,10 +74,7 @@ Question bank and quiz application for physics students.
 - [Learn Python Basics](https://akinholub.gumroad.com/l/Basic-python) - Tutorial for Python beginners
 - [Functions in Dart](https://bigfidelis.notion.site/bigfidelis/Function-In-Dart-4169e29cfdf443cf919854d0d2c2cd44/) - Guide on Dart functions
 
-## 💬 Let's Collaborate
-
-I'm enthusiastic about the potential of collaboration and the remarkable outcomes it can produce. If you're interested in working together on mobile app development or other exciting projects, please feel free to send me a direct message!
-
+## 💬 Let's Collaborate 
 [![@paulfidelis's Holopin board](https://holopin.me/paulfidelis)](https://holopin.io/@paulfidelis)
 
 <!---
