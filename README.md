@@ -62,13 +62,6 @@ Question bank and quiz application for physics students.
 
 
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fidelmak&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fidelmak&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
 ## 📚 Resources
 
 - [Learn Python Basics](https://akinholub.gumroad.com/l/Basic-python) - Tutorial for Python beginners
