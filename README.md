@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
  
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-339933?style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
 ## 👋🏽 About Me
@@ -32,29 +32,13 @@ Mobile  Developer passionate about creating seamless mobile experiences.
 - Git & GitHub
 - CI/CD
 
-## 🧠 Soft Skills
-- Problem-solving & Critical Thinking
-- Public Speaking & Presentation
-- Time Management & Organization
 
 
 
 
-## Projects
 
-### Cubess
-*Restaurant Mobile Application*
 
-Application for browsing menu and ordering meals from restaurants.
 
-**Tech Stack:** Flutter, BLoC, Firestore
-
-### EasyPhys
-*Educational App*
-
-Question bank and quiz application for physics students.
-
-**Tech Stack:** Flutter, Riverpod, SQLite
 
 ## 🎓 Education
 
@@ -67,7 +51,7 @@ Question bank and quiz application for physics students.
 - [Learn Python Basics](https://akinholub.gumroad.com/l/Basic-python) - Tutorial for Python beginners
 - [Functions in Dart](https://bigfidelis.notion.site/bigfidelis/Function-In-Dart-4169e29cfdf443cf919854d0d2c2cd44/) - Guide on Dart functions
 
-## 💬 Let's Collaborate 
+ 
 [![@paulfidelis's Holopin board](https://holopin.me/paulfidelis)](https://holopin.io/@paulfidelis)
 
 <!---
